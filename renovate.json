@@ -2,5 +2,5 @@
     "semanticCommits": "enabled",
     "commitMessageAction": "",
     "commitMessageTopic": "{{depName}}",
-    "commitMessageExtra": "{{prettyVersion}}"
+    "commitMessageExtra": "{{{prettyVersion}}}"
 }
