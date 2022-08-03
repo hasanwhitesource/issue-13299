@@ -1,5 +1,6 @@
 {
     "semanticCommits": "enabled",
     "commitMessageAction": "",
-    "commitMessageTopic": "{{depName}}"
+    "commitMessageTopic": "{{depName}}",
+    "commitMessageExtra": "{{newMajor}}"
 }
